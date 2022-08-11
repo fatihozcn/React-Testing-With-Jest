@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Videos 1 Item Renders Correctly 1`] = `
+<div>
+  <h4>
+    Exxen
+  </h4>
+</div>
+`;
+
+exports[`Videos 3 Items Renders Correctly 1`] = `
+<div>
+  <h4>
+    Udemy
+  </h4>
+  <h4>
+    Youtube
+  </h4>
+  <h4>
+    Tutorial
+  </h4>
+</div>
+`;
+
+exports[`Videos Empty Renders Sorry, no videos found 1`] = `
+<h2>
+  Sorry, no videos found.
+</h2>
+`;
